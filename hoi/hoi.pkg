@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'hoi': Human Opportunity Index (HOI) Use hoi With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f _pecats2.ado
+f hoi.ado
+f hoi.hlp
+f indeplist.ado
+f indeplist.hlp
